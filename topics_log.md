@@ -10,3 +10,6 @@
 | 2026-10-11 | How to price your first freelance client (extra batch) | videos/2026-10-11_b1_stop-charging-5-dollars.mp4 | Stop charging $5 for your first gig | 393375284 | 2026-10-11 13:00 ET |
 | 2026-10-11 | How to price your first freelance client (extra batch) | videos/2026-10-11_b2_sell-packages-not-hours.mp4 | Nobody tells beginners this: sell packages, not hours | 393375601 | 2026-10-11 15:45 ET |
 | 2026-10-11 | How to price your first freelance client (extra batch) | videos/2026-10-11_b3_ask-50-percent-upfront.mp4 | Never start a client job without this | 393375815 | 2026-10-11 19:00 ET |
+| 2026-10-12 | Where beginners find their first clients for free | videos/2026-10-12_1_your-first-client-is-in-your-contacts.mp4 | Your first client is already in your contacts | 393955385 | 2026-10-12 12:00 ET |
+| 2026-10-12 | Where beginners find their first clients for free | videos/2026-10-12_2_find-clients-on-google-maps.mp4 | Stop waiting on Fiverr orders. Do this instead | 393955786 | 2026-10-12 15:00 ET |
+| 2026-10-12 | Where beginners find their first clients for free | videos/2026-10-12_3_search-this-on-linkedin.mp4 | Search this on LinkedIn tonight | 393956033 | 2026-10-12 18:00 ET |
