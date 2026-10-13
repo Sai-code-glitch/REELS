@@ -13,3 +13,6 @@
 | 2026-10-12 | Where beginners find their first clients for free | videos/2026-10-12_1_your-first-client-is-in-your-contacts.mp4 | Your first client is already in your contacts | 393955385 | 2026-10-12 12:00 ET |
 | 2026-10-12 | Where beginners find their first clients for free | videos/2026-10-12_2_find-clients-on-google-maps.mp4 | Stop waiting on Fiverr orders. Do this instead | 393955786 | 2026-10-12 15:00 ET |
 | 2026-10-12 | Where beginners find their first clients for free | videos/2026-10-12_3_search-this-on-linkedin.mp4 | Search this on LinkedIn tonight | 393956033 | 2026-10-12 18:00 ET |
+| 2026-10-13 | Run a freelance side hustle on $0 tools | videos/2026-10-13_1_start-freelancing-with-0-dollars.mp4 | I'd start freelancing with $0. Here's how | 394871084 | 2026-10-13 12:00 ET |
+| 2026-10-13 | Run a freelance side hustle on $0 tools | videos/2026-10-13_2_stop-writing-proposals-from-scratch.mp4 | Stop writing proposals from scratch | 394871168 | 2026-10-13 15:00 ET |
+| 2026-10-13 | Run a freelance side hustle on $0 tools | videos/2026-10-13_3_first-invoice-5-minutes-free.mp4 | Your first invoice: 5 minutes, $0 | 394871236 | 2026-10-13 18:00 ET |
