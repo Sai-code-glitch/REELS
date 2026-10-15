@@ -19,3 +19,6 @@
 | 2026-10-14 | What to do when a client asks for a discount | videos/2026-10-14_1_never-lower-your-price.mp4 | Never lower your price. Do this instead | 395812907 | 2026-10-14 12:00 ET |
 | 2026-10-14 | What to do when a client asks for a discount | videos/2026-10-14_2_copy-this-reply-too-expensive.mp4 | Copy this reply to "too expensive" | 395812931 | 2026-10-14 15:00 ET |
 | 2026-10-14 | What to do when a client asks for a discount | videos/2026-10-14_3_only-discount-if-you-get-this.mp4 | Only give a discount if you get this | 395812954 | 2026-10-14 18:00 ET |
+| 2026-10-15 | Canva templates to sell before the holidays | videos/2026-10-15_1_make-it-once-sell-it-all-season.mp4 | Make it once in Canva. Sell it all season. | 396766308 | 2026-10-15 12:00 ET |
+| 2026-10-15 | Canva templates to sell before the holidays | videos/2026-10-15_2_3-canva-templates-before-black-friday.mp4 | 3 Canva templates shops need before Black Friday | 396766398 | 2026-10-15 15:00 ET |
+| 2026-10-15 | Canva templates to sell before the holidays | videos/2026-10-15_3_how-to-deliver-a-canva-template.mp4 | Nobody tells you how to deliver a Canva template | 396766472 | 2026-10-15 18:00 ET |
