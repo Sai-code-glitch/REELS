@@ -22,3 +22,6 @@
 | 2026-10-15 | Canva templates to sell before the holidays | videos/2026-10-15_1_make-it-once-sell-it-all-season.mp4 | Make it once in Canva. Sell it all season. | 396766308 | 2026-10-15 12:00 ET |
 | 2026-10-15 | Canva templates to sell before the holidays | videos/2026-10-15_2_3-canva-templates-before-black-friday.mp4 | 3 Canva templates shops need before Black Friday | 396766398 | 2026-10-15 15:00 ET |
 | 2026-10-15 | Canva templates to sell before the holidays | videos/2026-10-15_3_how-to-deliver-a-canva-template.mp4 | Nobody tells you how to deliver a Canva template | 396766472 | 2026-10-15 18:00 ET |
+| 2026-10-16 | Holiday Etsy listing refresh side gig | videos/2026-10-16_1_etsy-shops-pay-for-this-in-november.mp4 | Etsy shops pay for this in November | 397681141 | 2026-10-16 10:00 ET (draft) |
+| 2026-10-16 | Holiday Etsy listing refresh side gig | videos/2026-10-16_2_spot-an-etsy-shop-that-needs-you.mp4 | Spot an Etsy shop that needs you in 10 seconds | 397681215 | 2026-10-16 13:00 ET (draft) |
+| 2026-10-16 | Holiday Etsy listing refresh side gig | videos/2026-10-16_3_stop-pitching-etsy-shops-in-etsy-messages.mp4 | Stop pitching Etsy shops in Etsy messages | 397681291 | 2026-10-16 18:00 ET (draft) |
