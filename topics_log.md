@@ -25,3 +25,6 @@
 | 2026-10-16 | Holiday Etsy listing refresh side gig | videos/2026-10-16_1_etsy-shops-pay-for-this-in-november.mp4 | Etsy shops pay for this in November | 397681141 | 2026-10-16 10:00 ET (draft) |
 | 2026-10-16 | Holiday Etsy listing refresh side gig | videos/2026-10-16_2_spot-an-etsy-shop-that-needs-you.mp4 | Spot an Etsy shop that needs you in 10 seconds | 397681215 | 2026-10-16 13:00 ET (draft) |
 | 2026-10-16 | Holiday Etsy listing refresh side gig | videos/2026-10-16_3_stop-pitching-etsy-shops-in-etsy-messages.mp4 | Stop pitching Etsy shops in Etsy messages | 397681291 | 2026-10-16 18:00 ET (draft) |
+| 2026-10-17 | Holiday gift guide writing side gig | videos/2026-10-17_1_small-shops-need-this-before-black-friday.mp4 | Small shops need this before Black Friday | 398461584 | 2026-10-17 10:00 ET (draft) |
+| 2026-10-17 | Holiday gift guide writing side gig | videos/2026-10-17_2_write-a-gift-guide-in-1-hour.mp4 | Write a holiday gift guide in 1 hour | 398461622 | 2026-10-17 13:00 ET (draft) |
+| 2026-10-17 | Holiday gift guide writing side gig | videos/2026-10-17_3_send-this-dm-to-one-local-shop.mp4 | Send this DM to one local shop today | 398461669 | 2026-10-17 18:00 ET (draft) |
