@@ -1,47 +1,52 @@
 # Learn & Earn — weekly insights (read before every daily video)
 
-Updated 2026-10-11 (weekly review). Covers 2026-10-05 → 2026-10-11 (28-day context: 2026-09-14 → 2026-10-11), America/New_York.
+Updated 2026-10-18 (weekly review). Covers 2026-10-12 → 2026-10-18 (28-day context 2026-09-21 → 2026-10-18), America/New_York.
 
-## Status: NOT ENOUGH DATA YET
-- The channel's first Learn & Earn reels were scheduled on 2026-10-11 (8 rows in topics_log.md). Metricool had no performance rows for any of them at review time.
-- Do NOT treat anything below as proven. Defaults are cautious; re-evaluate next week.
+## 🚨 Fix first: nothing has published since 10-14
+- Metricool shows every Learn & Earn post scheduled for 10-15 → 10-18 (Canva, discount, Etsy, gift guide, AI tools + 4 TikTok reposts) as `draft: true`, status PENDING on IG/TikTok/YouTube. 19 posts never went live.
+- Daily task: schedule with draft=false (autoPublish on), then re-read the post in getScheduledPosts and confirm it is not a draft. Log "(draft)" in topics_log.md only if it really failed, and say so to Sai.
+- YouTube has never received a Learn & Earn Short (0 videos published in range). Check the YouTube provider is connected on every post.
 
-## Headline numbers (exactly as Metricool returned them)
-- Instagram: 0 reels in range, Reels views 0.0, followers 0.0, gained 0.0 / lost 0.0.
-- TikTok: 0 videos in range, views 0.0, followers 0.0, new followers 0.0.
-- YouTube: video views 114 in 7 days (110 on 10-07, 4 on 10-08; 5 more on 09-28 and 1 on 10-01 in the 28-day window); subscribers 1.0; gained 0.0 / lost 0.0.
-  - Only YouTube video published in range (10-08) is an unrelated older upload ("Volt man saves the Detroit downtown..."), not a Learn & Earn video.
-- Fastest-growing platform: none yet. No platform can be called yet.
+## Headline numbers (exactly as Metricool returned them, 10-12 → 10-18)
+- Instagram (shared @man_kind_alive account, mostly Michigan history): Reels views 1886 (997/119/255/132/132/251 by day); followers 4.0, gained 0.0, lost 0.0.
+- TikTok: views 757 (223/397/137, videos published 10-12→10-14); followers 5.0, new followers 0.0.
+- YouTube: video views 218 (30/173/15); subscribers 1.0, gained 0.0, lost 0.0. 28-day: 388 views.
+- Fastest growing: none on followers (all flat). TikTok is where Learn & Earn gets real views.
 
-## What worked / what to avoid
-- No winners or losers can be identified yet (0 tracked posts with metrics).
-- Avoid (process, not content): the 12:00 2026-10-11 post failed and needed a repost. Verify every scheduled post's status in Metricool after scheduling.
-- Avoid stacking posts: 10-11 had posts at 13:00, 14:15, 15:45, 17:15, 19:00, 20:45 (<3h apart). That splits the audience and makes it hard to tell what worked.
-- Keep the off-topic old YouTube uploads out of the comparison; consider setting them unlisted so the channel reads as one niche.
+## Per-video results (Learn & Earn only)
+TikTok views: LinkedIn search 121 · Black Friday promo 79 · Invoice 74 · $0 Google profile 70 · Holiday inbox 68 · Phone+window photos 67 · Stop charging $5 67 · $0 freelancing 4 · Proposals 3.
+Instagram views: Phone+window photos 85 · 50% deposit 28 · Black Friday 11 · Proposals 7 · Inbox 6 · $5 gig 5 · Maps/Fiverr 4 · Invoice 4 · LinkedIn 2 · Packages 1 · $0 freelancing 1 · Contacts 0 · $0 Google 0.
+- Top 3 TikTok: "Search this on LinkedIn tonight", "Black Friday is 7 weeks away. Sell this now", "Your first invoice: 5 minutes, $0".
+- Bottom TikTok: "I'd start freelancing with $0" (4) and "Stop writing proposals from scratch" (3), both 10-13 at ~12:00 and ~15:00.
+- Top IG: "Your phone + a window = a holiday side gig" (85, posted ~20:45), "Never start a client job without this" (28, ~19:00). IG daytime posts got 0–7.
+- Engagement is near zero everywhere (0–2 likes, 0 shares). Saves: 1 (deposit reel on IG).
 
-## Defaults to follow until data arrives
-- Volume: 3 videos/day max, one per slot below, same video to IG + TikTok + YouTube Shorts.
-- Hook: one line, <= 8 words, on screen in the first 1s. Lead with a number, money amount or deadline ("Black Friday is 7 weeks away", "Stop charging $5").
-- On-screen text: <= 3 short lines per frame; one idea per frame; end on a clear next step.
-- Captions: hook restated + 1-line payoff + one question to drive comments ("What would you charge?") + 3-5 niche hashtags.
-- Keep variety so next week's review can compare: alternate topic types (Q4 seasonal gigs / pricing & client tips / $0 tools) and hook styles (number, warning "Stop…/Never…", curiosity "Nobody tells beginners…").
-- Log every post in topics_log.md with the Metricool post ID so it can be matched next week.
+## What worked
+- Concrete, do-it-tonight actions with a named place/tool: "Search this on LinkedIn tonight", "Your first invoice: 5 minutes, $0".
+- Deadline + money hooks tied to Q4: "Black Friday is 7 weeks away".
+- Evening slots (18:00–21:00 ET) did best on both TikTok and IG.
 
-## Recommended posting slots (America/New_York, 3h apart)
-Based on Metricool best-time data for next week (IG returned no data; TikTok peaks 10:00, 12:00, 18:00; YouTube peaks 15:00–16:00, Wed/Thu strongest on both):
-- Mon–Fri: 10:00 · 13:00 · 16:00 · (optional 19:00)
-- Sat–Sun: 10:00 · 13:00 · 16:00 (weekend audience is ~half; skip 19:00)
-- Prioritise strongest videos for Wed/Thu 10:00 and 16:00.
+## What to avoid
+- Abstract "how I'd start" or advice hooks with no specific action (the $0-freelancing and proposals videos flopped on both apps).
+- Expecting IG reach on this account: its audience follows Michigan history; Learn & Earn reels there average single digits. Keep cross-posting but judge winners on TikTok and YouTube.
+- Unpublished drafts and posts stacked under 3h apart.
+- Too little data to judge hooks firmly: most TikToks sit at 67–79 (baseline). Only treat 100+ as a real signal.
 
-## Topic ideas for next week (extend the 10-11 themes; test, don't assume)
-1. "5 Canva templates you can sell before Black Friday" (Q4 deadline hook)
-2. "Etsy sellers will pay you for this in November" (holiday listing/SEO refresh)
-3. "Your first 3 clients: where to find them for free" (follows the pricing batch)
-4. "What to say when a client asks for a discount" (pricing series part 2)
-5. "Turn one skill into a $50 package (step by step)" (packages, not hours, applied)
-6. "Holiday gift-guide writing: a side gig nobody's doing" (seasonal)
-7. "3 free AI tools that do half the work of a freelancer" ($0 tools angle)
+## Topic ideas for next week (build on winners; publish the stuck 10-15→10-18 videos first if still relevant)
+1. "Search this on X tonight" series: "Search this in Facebook groups tonight" (people asking for help).
+2. "Search this on Reddit tonight": hiring posts, how to reply in 3 lines.
+3. "Black Friday is 5 weeks away. Sell this now": email/SMS sale-copy pack for small shops.
+4. "Your first contract: 10 minutes, $0" (follows the invoice winner).
+5. "Your first client follow-up: copy this message" (follow-up DM 3 days later).
+6. "Your phone + a window, part 2": the 3 holiday product shots shops need.
+7. "Cyber Monday is 6 weeks away: 1 gig to sell now" (deadline hook again).
 
-## Next review checklist
-- Match IG/TikTok/YouTube posts to topics_log.md rows; rank top/bottom 3 by views, then saves+shares.
-- Compare hook styles and topic types; replace these defaults with evidence.
+## Posting slots (America/New_York, ≥3h apart)
+Metricool best times for 10-19→10-25: TikTok peaks 10:00, 12:00, 18:00 (Wed/Thu strongest); YouTube peaks 16:00 then 10:00/14:00–15:00; Instagram returned all zeros.
+- Mon–Sun: 10:00 · 14:00 · 18:00. Put the strongest video of the day at 18:00.
+- Wed/Thu: best days on TikTok and YouTube — use them for the "Search this…" and Black Friday ideas.
+
+## Hook & caption changes
+- Hook formula: [action verb] + [specific place/tool] + [time cue] — "Search this on LinkedIn tonight", "Your first X: 5 minutes, $0". ≤ 8 words.
+- Keep the Q4 countdown hooks; update the week count each time.
+- End each video with one concrete step to do today; caption = hook + payoff + one question; first comment asks a 1/2/3 question.
