@@ -28,3 +28,6 @@
 | 2026-10-17 | Holiday gift guide writing side gig | videos/2026-10-17_1_small-shops-need-this-before-black-friday.mp4 | Small shops need this before Black Friday | 398461584 | 2026-10-17 10:00 ET (draft) |
 | 2026-10-17 | Holiday gift guide writing side gig | videos/2026-10-17_2_write-a-gift-guide-in-1-hour.mp4 | Write a holiday gift guide in 1 hour | 398461622 | 2026-10-17 13:00 ET (draft) |
 | 2026-10-17 | Holiday gift guide writing side gig | videos/2026-10-17_3_send-this-dm-to-one-local-shop.mp4 | Send this DM to one local shop today | 398461669 | 2026-10-17 18:00 ET (draft) |
+| 2026-10-18 | Free AI tools for freelancers (use it safely) | videos/2026-10-18_1_ai-drafts-you-edit-clients-pay.mp4 | AI drafts. You edit. Clients pay. | 399083902 | 2026-10-18 10:00 ET (draft) |
+| 2026-10-18 | Free AI tools for freelancers (use it safely) | videos/2026-10-18_2_stop-typing-your-client-call-notes.mp4 | Stop typing your client call notes | 399083962 | 2026-10-18 14:00 ET (draft) |
+| 2026-10-18 | Free AI tools for freelancers (use it safely) | videos/2026-10-18_3_never-paste-this-into-free-ai.mp4 | Never paste this into a free AI tool | 399084015 | 2026-10-18 18:00 ET (draft) |
