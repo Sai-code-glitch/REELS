@@ -31,3 +31,6 @@
 | 2026-10-18 | Free AI tools for freelancers (use it safely) | videos/2026-10-18_1_ai-drafts-you-edit-clients-pay.mp4 | AI drafts. You edit. Clients pay. | 399083902 | 2026-10-18 10:00 ET (draft) |
 | 2026-10-18 | Free AI tools for freelancers (use it safely) | videos/2026-10-18_2_stop-typing-your-client-call-notes.mp4 | Stop typing your client call notes | 399083962 | 2026-10-18 14:00 ET (draft) |
 | 2026-10-18 | Free AI tools for freelancers (use it safely) | videos/2026-10-18_3_never-paste-this-into-free-ai.mp4 | Never paste this into a free AI tool | 399084015 | 2026-10-18 18:00 ET (draft) |
+| 2026-10-19 | Search this tonight: find people already hiring (Reddit, Facebook groups, 3-line reply) | videos/2026-10-19_1_search-this-on-reddit-tonight.mp4 | Search this on Reddit tonight | 399951396 | 2026-10-19 10:00 ET (draft) |
+| 2026-10-19 | Search this tonight: find people already hiring (Reddit, Facebook groups, 3-line reply) | videos/2026-10-19_2_search-this-in-facebook-groups-tonight.mp4 | Search this in Facebook groups tonight | 399951477 | 2026-10-19 14:00 ET (draft) |
+| 2026-10-19 | Search this tonight: find people already hiring (Reddit, Facebook groups, 3-line reply) | videos/2026-10-19_3_copy-this-3-line-reply.mp4 | Copy this 3-line reply to hiring posts | 399951568 | 2026-10-19 18:00 ET (draft) |
