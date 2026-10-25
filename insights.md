@@ -1,52 +1,53 @@
 # Learn & Earn — weekly insights (read before every daily video)
 
-Updated 2026-10-18 (weekly review). Covers 2026-10-12 → 2026-10-18 (28-day context 2026-09-21 → 2026-10-18), America/New_York.
+Updated 2026-10-25 (weekly review). Covers 2026-10-19 → 2026-10-25 (28-day context 2026-09-28 → 2026-10-25), America/New_York.
 
-## 🚨 Fix first: nothing has published since 10-14
-- Metricool shows every Learn & Earn post scheduled for 10-15 → 10-18 (Canva, discount, Etsy, gift guide, AI tools + 4 TikTok reposts) as `draft: true`, status PENDING on IG/TikTok/YouTube. 19 posts never went live.
-- Daily task: schedule with draft=false (autoPublish on), then re-read the post in getScheduledPosts and confirm it is not a draft. Log "(draft)" in topics_log.md only if it really failed, and say so to Sai.
-- YouTube has never received a Learn & Earn Short (0 videos published in range). Check the YouTube provider is connected on every post.
+## 🚨 Fix first: still nothing published — 11 days, ~33 videos stuck
+- getScheduledPosts (10-19 → 10-26): all 21 Learn & Earn posts this week are `draft: true`, every provider PENDING, even though `autoPublish: true`. Same as 10-15 → 10-18. Last Learn & Earn video that actually went live: 2026-10-14.
+- Last week's rule ("schedule with draft=false") did not fix it: the posts still come back as drafts. Daily task: after creating a post, read it back; if it is still `draft: true`, do NOT keep producing new videos silently — notify Sai the same day that the planner is holding drafts.
+- Likely needs Sai in the Metricool planner/app (plan or account setting, or approve drafts by hand). The 10-19 → 10-25 slots are now in the past, so those drafts must be rescheduled, not just approved.
+- Separate SY Consulting posts (10-19, 10-21, 10-26) are also stuck as drafts.
 
-## Headline numbers (exactly as Metricool returned them, 10-12 → 10-18)
-- Instagram (shared @man_kind_alive account, mostly Michigan history): Reels views 1886 (997/119/255/132/132/251 by day); followers 4.0, gained 0.0, lost 0.0.
-- TikTok: views 757 (223/397/137, videos published 10-12→10-14); followers 5.0, new followers 0.0.
-- YouTube: video views 218 (30/173/15); subscribers 1.0, gained 0.0, lost 0.0. 28-day: 388 views.
-- Fastest growing: none on followers (all flat). TikTok is where Learn & Earn gets real views.
+## Headline numbers (exactly as Metricool returned them, 10-19 → 10-25)
+- Learn & Earn videos published: 0 on every network, so there is no new per-video data this week.
+- TikTok: videos 0.0, views 0.0, followers 0.0, new followers 0.0 (single row dated 10-25). Last TikTok post was 10-14.
+- Instagram (shared @man_kind_alive account, all Michigan-history/other content): Reels views 2573/465/1638/554/246/395 (10-19 → 10-24); followers 22.0 (10-19) → 29.0 (10-24); 10-25 followers gained 0.0, lost 0.0. None of it is Learn & Earn.
+- YouTube: subscribers 1.0; video views 16/6/1 (10-19/20/21); videos published 0 in range; gained 0.0, lost 0.0. Still no Learn & Earn Short ever published.
+- Fastest growing: Instagram followers (+7, from non-Learn & Earn content). Learn & Earn itself: flat (not posting).
 
-## Per-video results (Learn & Earn only)
-TikTok views: LinkedIn search 121 · Black Friday promo 79 · Invoice 74 · $0 Google profile 70 · Holiday inbox 68 · Phone+window photos 67 · Stop charging $5 67 · $0 freelancing 4 · Proposals 3.
-Instagram views: Phone+window photos 85 · 50% deposit 28 · Black Friday 11 · Proposals 7 · Inbox 6 · $5 gig 5 · Maps/Fiverr 4 · Invoice 4 · LinkedIn 2 · Packages 1 · $0 freelancing 1 · Contacts 0 · $0 Google 0.
-- Top 3 TikTok: "Search this on LinkedIn tonight", "Black Friday is 7 weeks away. Sell this now", "Your first invoice: 5 minutes, $0".
-- Bottom TikTok: "I'd start freelancing with $0" (4) and "Stop writing proposals from scratch" (3), both 10-13 at ~12:00 and ~15:00.
-- Top IG: "Your phone + a window = a holiday side gig" (85, posted ~20:45), "Never start a client job without this" (28, ~19:00). IG daytime posts got 0–7.
-- Engagement is near zero everywhere (0–2 likes, 0 shares). Saves: 1 (deposit reel on IG).
+## Best evidence we have (28-day, TikTok, all posted 10-12 → 10-14)
+Views: "Search this on LinkedIn tonight" 121 · "Black Friday is 7 weeks away. Sell this now" 79 · "Your first invoice: 5 minutes, $0" 74 · "$0 side hustle can pay you monthly" 70 · Holiday inbox 68 · Phone + window 67 · Stop charging $5 67 · "I'd start freelancing with $0" 4 · "Stop writing proposals from scratch" 3.
+- Baseline is ~67–79 views; only 100+ counts as a real signal (one video so far). Likes 0–2, comments 0. Sample is small — treat all lessons as provisional.
 
 ## What worked
-- Concrete, do-it-tonight actions with a named place/tool: "Search this on LinkedIn tonight", "Your first invoice: 5 minutes, $0".
-- Deadline + money hooks tied to Q4: "Black Friday is 7 weeks away".
-- Evening slots (18:00–21:00 ET) did best on both TikTok and IG.
+- Do-it-tonight action + named place: "Search this on LinkedIn tonight" (only 100+ video).
+- Q4 deadline + money: "Black Friday is 7 weeks away. Sell this now".
+- Tiny concrete deliverable + time + $0: "Your first invoice: 5 minutes, $0".
+- Evening slots (18:00–21:00 ET) did best on TikTok and IG.
 
 ## What to avoid
-- Abstract "how I'd start" or advice hooks with no specific action (the $0-freelancing and proposals videos flopped on both apps).
-- Expecting IG reach on this account: its audience follows Michigan history; Learn & Earn reels there average single digits. Keep cross-posting but judge winners on TikTok and YouTube.
-- Unpublished drafts and posts stacked under 3h apart.
-- Too little data to judge hooks firmly: most TikToks sit at 67–79 (baseline). Only treat 100+ as a real signal.
+- Abstract "how I'd start" / generic advice hooks (4 and 3 views).
+- Making more videos while nothing publishes — fix publishing first.
+- Judging Learn & Earn on IG reach: the account audience follows Michigan history.
+- Stale countdowns: the stuck videos say "Black Friday is 5 weeks away" / "Thanksgiving is 32 days away" — re-render or retitle with the correct count before posting.
 
-## Topic ideas for next week (build on winners; publish the stuck 10-15→10-18 videos first if still relevant)
-1. "Search this on X tonight" series: "Search this in Facebook groups tonight" (people asking for help).
-2. "Search this on Reddit tonight": hiring posts, how to reply in 3 lines.
-3. "Black Friday is 5 weeks away. Sell this now": email/SMS sale-copy pack for small shops.
-4. "Your first contract: 10 minutes, $0" (follows the invoice winner).
-5. "Your first client follow-up: copy this message" (follow-up DM 3 days later).
-6. "Your phone + a window, part 2": the 3 holiday product shots shops need.
-7. "Cyber Monday is 6 weeks away: 1 gig to sell now" (deadline hook again).
+## Next week: publish the backlog first, then these (build on winners)
+Backlog to post first (still relevant): Reddit search, Facebook groups search, 3-line reply, Black Friday 3-email pack (fix week count), subject lines, Google Maps holiday hours, 3 product photos.
+1. "Search this on LinkedIn tonight, part 2": posts saying "need holiday help".
+2. "Black Friday is 4 weeks away. Sell this now": SMS/text-blast pack for small shops.
+3. "Your first quote: 5 minutes, $0" (follows the invoice winner).
+4. "Your first payment link: 5 minutes, $0" (free invoice/payment link, get paid before starting).
+5. "Cyber Monday is [N] days away: 1 gig to sell now" (Cyber Monday = Nov 30).
+6. "Search this on Instagram tonight": local shops with no holiday post yet.
+7. "Your phone + a window, part 2": 1 gift-scene shot for Black Friday listings.
 
 ## Posting slots (America/New_York, ≥3h apart)
-Metricool best times for 10-19→10-25: TikTok peaks 10:00, 12:00, 18:00 (Wed/Thu strongest); YouTube peaks 16:00 then 10:00/14:00–15:00; Instagram returned all zeros.
-- Mon–Sun: 10:00 · 14:00 · 18:00. Put the strongest video of the day at 18:00.
-- Wed/Thu: best days on TikTok and YouTube — use them for the "Search this…" and Black Friday ideas.
+Metricool best times for 10-26 → 11-01: TikTok peaks 10:00, 12:00, 18:00 (Wed/Thu strongest, 10:00 ≈1432–1471); YouTube peaks 16:00, then 15:00 and 10:00 (Wed/Thu strongest); Instagram returned all zeros.
+- Mon–Fri: 10:00 · 15:00 · 18:00. Strongest video at 18:00.
+- Sat–Sun (lower traffic): 10:00 · 13:00 · 16:00.
+- Note: clocks fall back Sun 11-01 (EDT → EST); keep times in local ET.
 
 ## Hook & caption changes
-- Hook formula: [action verb] + [specific place/tool] + [time cue] — "Search this on LinkedIn tonight", "Your first X: 5 minutes, $0". ≤ 8 words.
-- Keep the Q4 countdown hooks; update the week count each time.
-- End each video with one concrete step to do today; caption = hook + payoff + one question; first comment asks a 1/2/3 question.
+- Hook formula: [action verb] + [specific place/tool] + [time cue], ≤ 8 words. "Your first X: 5 minutes, $0" is the second template.
+- Always recompute countdown numbers on posting day.
+- End with one step to do today; caption = hook + payoff + one question; first comment asks a 1/2/3 question.
