@@ -7,7 +7,7 @@ def wrap(s, n):
     return textwrap.wrap(s, n)
 
 
-def phone_chat(sub, t, start, cx, top, msgs, header="Maya's Bakery", w=820, h=1060):
+def phone_chat(sub, t, start, cx, top, msgs, header="Maya's Bakery", w=820, h=1060, sub_label="Business account"):
     """msgs: list of (side 'me'|'them', text, appear_time, extra) ; extra may be 'typed' or a status string."""
     k = p(t, start, 0.4)
     if k <= 0: return
@@ -20,7 +20,7 @@ def phone_chat(sub, t, start, cx, top, msgs, header="Maya's Bakery", w=820, h=10
     d.ellipse([50, 50, 130, 130], fill=(255, 170, 90, 255))
     d.text((90, 90), header[0], font=font(F_BLACK, 44), fill=(255, 255, 255, 255), anchor="mm")
     d.text((154, 74), header, font=font(F_XB, 38), fill=(*INK, 255), anchor="lm")
-    d.text((154, 116), "Business account", font=font(F_MED, 28), fill=(120, 126, 140, 255), anchor="lm")
+    d.text((154, 116), sub_label, font=font(F_MED, 28), fill=(120, 126, 140, 255), anchor="lm")
     y = 190
     for side, txt, at, extra in msgs:
         kk = p(t, at, 0.35)
